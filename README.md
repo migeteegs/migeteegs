@@ -13,7 +13,7 @@
 
 
 
-# Hello World! 👋 Hi, I’m @YourGitHubUsername
+# Hello World! 👋 Hi, I’m Teegs
 
 - 👀 **I’m passionate about AI and IoT** – the intersection of artificial intelligence and the Internet of Things is where I thrive. I love exploring how smart systems can connect, learn, and make the world more efficient and intelligent. My focus includes machine learning, edge computing, sensor networks, and building scalable IoT solutions powered by AI.
 
